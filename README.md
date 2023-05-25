@@ -32,7 +32,7 @@ To preserve message history after deletion by 1 user, our idea was to create two
 > `python3 init_database.py`
 
 ### Data-Flow Diagram 
-![DFD](/uploads/adf60404eb979a99bd0d274f79b859b3/Untitled__1_.jpg)
+![Untitled__1_](https://github.com/isabellarojasg/Secure-Messaging-Application/assets/68630621/93efc0bf-7528-4485-9c0e-d2c0abba309c)
 
 
 ### Limitations 
